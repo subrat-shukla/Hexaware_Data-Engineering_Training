@@ -1,1 +1,2 @@
-# Hexaware_Data-Engineering_Training
+## Hexaware_Data-Engineering_Training
+Hii, welcome to my profile. This repository is of my Hexaware Role Specific Training (Python Batch) Program. In this, you will find the tasks consist of assignments, case study and coding challenge for SQL, Python, Azure etc. In case, you find it helpful, do give a star. Thanks and regards - Subrat Shukla
